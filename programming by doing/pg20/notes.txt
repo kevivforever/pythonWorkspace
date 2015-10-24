@@ -1,0 +1,34 @@
+calculator
+
+height
+weight
+height convertor
+weight converter
+bmi calculator
+
+for height and weight
+
+type of input
+ask for value
+
+do we need to convert height or weight 
+:Y
+call convertion method
+call bmi calc method
+
+:N
+call bmi calc method
+------------------------------------------------------------
+BMI
+Height
+	m
+	inch
+	feet and inches
+weight
+	kg
+	pound
+
+calculate
+convert
+	weight
+	height
